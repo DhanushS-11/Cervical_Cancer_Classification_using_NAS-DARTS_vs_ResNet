@@ -64,7 +64,7 @@ cervical-cancer-nas-resnet/
 
 ```bash
 # Clone the repository
-git clone https://github.com/villwin007/cervical-cancer-nas-resnet.git
+git clone https://github.com/DhanushS-11/cervical-cancer-nas-resnet.git
 cd cervical-cancer-nas-resnet
 
 # Create and activate a virtual environment (optional)
@@ -178,7 +178,7 @@ If you use this work, please cite:
   title = {Cervical Cancer Classification using NAS (DARTS) vs ResNet},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/<villwin007>/cervical-cancer-nas-resnet}
+  url = {https://github.com/<DhanushS-11>/cervical-cancer-nas-resnet}
 }
 ```
 
@@ -190,7 +190,7 @@ For questions, feel free to reach out:
 
 * **Author**: Dhanush Saravanan
 * **Email**: [villwin11@gmail.com](mailto:villwin11@gmail.com)
-* **GitHub**: [villwin007](https://github.com/villwin007)
+* **GitHub**: [DhanushS-11](https://github.com/DhanushS-11)
 
 ---
 
